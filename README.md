@@ -2,7 +2,7 @@
 - slope-joy
 
 ## Images
-![1773152262-OAsXm2LNg6wlBKE0I7FnozUT](https://github.com/user-attachments/assets/fcc0fe18-600d-4f98-893f-b48a9f89bb7a)
+<img src="https://github.com/user-attachments/assets/fcc0fe18-600d-4f98-893f-b48a9f89bb7a" width="50%" />
 
 ## Status
 - Prototype
@@ -40,7 +40,9 @@ firmware/
 ```
 ## Build Notes
 Keyboard photos.
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/79de3e7b-3a6e-4ab0-9257-427b064c2f38" />
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/cc7686c0-3abb-4ba9-8250-73ed983c2021" />
+
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/79de3e7b-3a6e-4ab0-9257-427b064c2f38" />
+
+<img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/cc7686c0-3abb-4ba9-8250-73ed983c2021" />
 
 
